@@ -1,7 +1,5 @@
 Anggap ini adalah sebuah coding:
 start:
 
-	body program
-	(isi program)
 
 end;
