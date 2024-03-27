@@ -1,0 +1,7 @@
+Anggap ini adalah sebuah coding:
+if A =B then
+	
+	logic
+
+
+end if
