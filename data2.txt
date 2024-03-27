@@ -1,0 +1,8 @@
+Anggap ini adalah sebuah coding:
+
+For i =1 to n
+	
+	logic
+
+
+end for;
